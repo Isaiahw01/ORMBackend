@@ -81,3 +81,4 @@ Testing of the code was completed in Insomnia
 
 ## Images
 ![Insomnia Image](Assets/Insomnia%20Get%20Categories.png)
+![Insomnia GIF](Assets/13-orm-homework-02.gif)
