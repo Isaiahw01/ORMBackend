@@ -8,24 +8,37 @@ const tagData = [
     tag_name: 'pop music',
   },
   {
-    tag_name: 'blue',
+    tag_name: 'Electronic',
   },
   {
-    tag_name: 'red',
+    tag_name: 'Indie',
   },
   {
-    tag_name: 'green',
+    tag_name: 'Hip-hop',
   },
   {
-    tag_name: 'white',
+    tag_name: 'Classical',
   },
   {
-    tag_name: 'gold',
+    tag_name: 'Jazz',
   },
   {
-    tag_name: 'pop culture',
+    tag_name: 'Folk',
+  },
+  {
+    tag_name: 'R&B',
+  },
+  {
+    tag_name: 'Alternative',
+  },
+  {
+    tag_name: 'Country',
+  },
+  {
+    tag_name: 'Reggae',
   },
 ];
+
 
 const seedTags = () => Tag.bulkCreate(tagData);
 
