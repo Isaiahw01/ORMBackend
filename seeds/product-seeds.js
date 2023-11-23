@@ -16,7 +16,7 @@ const productData = [
     tags: ['Pop Music', 'Electronics']
   },
   {
-    product_name: 'Musician's Fedora Hat',
+    product_name: 'Musician' 'Fedora Hat',
     price: 22.99,
     stock: 12,
     category_id: 4,
